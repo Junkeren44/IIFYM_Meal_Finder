@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/junker/AndroidStudioProjects/IIFYMMealFinder/IIFYM Meal Finder/build/pre-dexed/debug/support-v4-19.0.1-a3199fb18d637068e7ff294a7bec2a5602d5463c.jar"
+        jar="/home/junker/Downloads/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="/home/junker/AndroidStudioProjects/IIFYMMealFinder/IIFYM Meal Finder/build/pre-dexed/debug/classes-8f96cf9f924978e8f4485788a465a751476622d2.jar"
+        jar="/home/junker/AndroidStudioProjects/IIFYMMealFinder/build/exploded-aar/com.android.support/appcompat-v7/19.0.1/classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+
+</pre-dex-items>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IIFYM Meal Finder</string>
+    <string name="main_headline">Choose Your Macros:</string>
+    <string name="action_settings">Settings</string>
+    <string name="Calories">Calories:</string>
+    <string name="Protein">Protein:</string>
+    <string name="Carbs">Carbs:</string>
+    <string name="Fat">Fat:</string>
+    <string name="Fiber">Fiber:</string>
+    <string name="FindResturantButton">Go!</string>
+
+    <string-array name="resturant_arrays">
+        <item>All</item>
+        <item>Applebee\'s</item>
+        <item>Arby\'s</item>
+        <item>Baskin Robbins</item>
+        <item>Bob Evans</item>
+        <item>Bojangles</item>
+        <item>Boston Market</item>
+        <item>Burger King</item>
+        <item>California Pizza Kitchen</item>
+        <item>Captain D\'s</item>
+        <item>Carl\'s Jr.</item>
+        <item>Checker\'s Drive-In/Rallys</item>
+        <item>Chick-Fil-A</item>
+        <item>Chili\'s</item>
+        <item>Chipotle</item>
+        <item>Church\'s Chicken</item>
+        <item>Ci Ci\'s Pizza</item>
+        <item>Culver\'s</item>
+        <item>Dairy Queen</item>
+        <item>Del Taco</item>
+        <item>Denny\'s</item>
+        <item>Dominos</item>
+        <item>Dunkin\' Donuts</item>
+        <item>Einstein Bros</item>
+        <item>El Pollo Loco</item>
+        <item>ive Guys</item>
+        <item>Friendly\'s</item>
+        <item>Golden Corral</item>
+        <item>Hardee\'s</item>
+        <item>IHOP</item>
+        <item>In-N-Out Burger</item>
+        <item>Jack in the Box</item>
+        <item>Jamba Juice</item>
+        <item>Jason\'s Deli</item>
+        <item>Jimmy John\'s</item>
+        <item>KFC</item>
+        <item>Krystal</item>
+        <item>Little Caesars</item>
+        <item>Long John Silver\'s</item>
+        <item>LongHorn Steakhouse</item>
+        <item>McDonald\'s</item>
+        <item>O\'Charley\'s</item>
+        <item>Olive Garden</item>
+        <item>Outback Steakhouse</item>
+        <item>Panda Express</item>
+        <item>Panera Bread</item>
+        <item>Papa John\'s</item>
+        <item>Papa Murphy\'s</item>
+        <item>PF Chang\'s</item>
+        <item>Pizza Hut</item>
+        <item>Popeyes</item>
+        <item>Qdoba</item>
+        <item>Quiznos</item>
+        <item>Red Lobster</item>
+        <item>Romano\'s Macaroni Grill</item>
+        <item>Ruby Tuesday</item>
+        <item>Sonic</item>
+        <item>Starbucks</item>
+        <item>Steak \'N Shake</item>
+        <item>Subway</item>
+        <item>Taco Bell</item>
+        <item>TGI Friday\'s</item>
+        <item>Tim Hortons</item>
+        <item>Wendy\'s</item>
+        <item>Whataburger</item>
+        <item>White Castle</item>
+        <item>Zaxby\'s</item>
+    </string-array>
+
+    <string name="title_activity_show_meals">ShowMealsActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

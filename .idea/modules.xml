@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IIFYM Meal Finder/IIFYM Meal Finder.iml" filepath="$PROJECT_DIR$/IIFYM Meal Finder/IIFYM Meal Finder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IIFYMMealFinder.iml" filepath="$PROJECT_DIR$/IIFYMMealFinder.iml" />
+    </modules>
+  </component>
+</project>
+
